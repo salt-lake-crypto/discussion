@@ -5,4 +5,4 @@ We'll use issues on this repo to keep track of discussions, comments, and reques
 
 Meetup: http://www.meetup.com/Salt-Lake-City-Crypto-Society/
 
-Chat Room: https://gitter.im/salt-lake-crypto
+Chat Room: https://gitter.im/salt-lake-crypto/discussion
